@@ -3,7 +3,7 @@
   "%Name":"sArvore",
   "bboxMode":0,
   "bbox_bottom":63,
-  "bbox_left":1,
+  "bbox_left":0,
   "bbox_right":47,
   "bbox_top":16,
   "collisionKind":1,
