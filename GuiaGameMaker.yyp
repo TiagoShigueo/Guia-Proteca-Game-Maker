@@ -37,8 +37,6 @@
     {"id":{"name":"obj_custom","path":"objects/obj_custom/obj_custom.yy",},},
     {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},},
-    {"id":{"name":"sArvore","path":"sprites/sArvore/sArvore.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_bar","path":"sprites/spr_bar/spr_bar.yy",},},
     {"id":{"name":"spr_cabelo","path":"sprites/spr_cabelo/spr_cabelo.yy",},},
