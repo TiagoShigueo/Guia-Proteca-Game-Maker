@@ -34,7 +34,9 @@
   },
   "name":"GuiaGameMaker",
   "resources":[
+    {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},},
     {"id":{"name":"obj_custom","path":"objects/obj_custom/obj_custom.yy",},},
+    {"id":{"name":"obj_intro","path":"objects/obj_intro/obj_intro.yy",},},
     {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"scrCorpo","path":"scripts/scrCorpo/scrCorpo.yy",},},
