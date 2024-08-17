@@ -13,5 +13,6 @@ enum Custom {
 }
 
 modificador = Custom.Altura;
-
 mod_selecionado = 0;
+
+corpo_selecionado = 0;
