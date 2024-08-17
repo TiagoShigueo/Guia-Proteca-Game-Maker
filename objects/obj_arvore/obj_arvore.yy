@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sArvore",
-    "path":"sprites/sArvore/sArvore.yy",
+    "name":"spr_arvore",
+    "path":"sprites/spr_arvore/spr_arvore.yy",
   },
   "spriteMaskId":null,
   "visible":true,
